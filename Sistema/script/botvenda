@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-#--------@WWEPRO-----------#
+#--------@SPEEDNET-----------#
 source ShellBot2.sh
 ShellBot.init --token "5248626547:AAFWKIybiAtEhmWzvLRaKyl0TRA9qO7u_ck" --monitor --flush
 ShellBot.username
